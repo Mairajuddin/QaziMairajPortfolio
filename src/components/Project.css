@@ -1,0 +1,15 @@
+
+
+
+
+
+.project-bx{
+    box-sizing: border-box;
+    background-color: #121212;
+    padding: 6rem;
+    border-radius: 10%;
+}
+
+
+ 
+/* Project JS file ki container ki inline style //style={{ position: 'sticky', justifyContent: 'center', paddingTop: '300px', paddingBottom: '500px', alignItems: 'center', display: 'flex' }} */
